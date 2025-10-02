@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 3. Run the analysis:
 ```bash
-jupyter notebook notebooks/Payapulli_Joshua_HW7.ipynb
+jupyter notebook notebooks/anuran_calls_analysis.ipynb
 ```
 
 ## 📁 Project Structure
